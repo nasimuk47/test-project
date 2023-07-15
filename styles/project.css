@@ -1,0 +1,68 @@
+.head-container {
+    background-image: url("../images/banner/banner3.png");
+
+    justify-content: space-between;
+    gap: 10px;
+    text-align: right;
+    padding: 0px 150px;
+    padding-top: 60px;
+
+    height: 500px;
+    font-size: 20px;
+    padding-left: 750px;
+}
+.header-write {
+    color: #272727;
+    font-family: Lato;
+    padding-top: 60px;
+    color: white;
+}
+
+.btn {
+    padding: 15px 25px;
+    border-radius: 5px;
+    border-color: none;
+    background-color: brown;
+}
+.my-failures {
+    display: flex;
+}
+.failures-text {
+    padding: 250px;
+}
+.failures-pic {
+    padding-top: 80px;
+    padding-left: 30px;
+}
+
+.my-plan {
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+.my-plan-img {
+    display: flex;
+    padding-top: 40px;
+    justify-content: center;
+    gap: 60px;
+    text-align: center;
+    padding-bottom: 110px;
+}
+.footer {
+    display: flex;
+    background-color: black;
+    color: white;
+    padding: 40px 35px;
+    padding: 40px;
+    padding: 50px;
+}
+.sub {
+    padding: 10px;
+    text-align: center;
+    gap: 30px;
+}
+.footer-text {
+    height: 50px;
+    width: 1000px;
+}
